@@ -1,2 +1,4 @@
-package src.workingWithBranches;public class PlikOsoba1 {
+package src.workingWithBranches;
+
+public class PlikOsoba1 {
 }
